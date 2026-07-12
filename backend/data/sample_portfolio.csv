@@ -1,0 +1,7 @@
+label,side,balance,rate,repricing_beta,bucket,time_years
+Floating rate loans,asset,500000000,0.065,1.0,0-3M,0.2
+Fixed rate loans,asset,300000000,0.055,0.0,1-3Y,2.0
+Mortgage book,asset,250000000,0.052,0.1,5Y+,7.0
+Retail deposits,liability,600000000,0.015,0.3,0-3M,0.2
+Term deposits,liability,200000000,0.038,0.7,6-12M,0.75
+Wholesale funding,liability,150000000,0.048,0.9,3-6M,0.4
